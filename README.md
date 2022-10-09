@@ -2,7 +2,7 @@
 
 **About**
 
-Peace of Mind is a JavaScript application that allows users to engage in deep breathing sessions. I've used the internet many times to engage in meditation and deep breathing exercises and wanted to build one to get more practice and experience with JavaScript applications.
+Peace of Mind is a JavaScript application that allows users to engage in deep breathing sessions. I've used the internet many times to engage in meditation and deep breathing exercises and wanted to build one to get more practice and experience with JavaScript applications. The link to the Netlify deployment of this application can be found in the About section of this repository.
 
 **Built With**
 

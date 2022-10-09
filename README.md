@@ -17,6 +17,7 @@ Windows 10, a code editor (I used Visual Studio Code), and Git Bash.
 My approach to creating the game was starting off with my index.html file first. I needed the app title, the user instructions, the drop-down list where users will choose how many breaths they will do for their session, the start button and the circle that will guide the users breaths during their session. I then moved to the CSS styling, so that I would have the page formatted and styled to my liking, which would make it easier once I went to my app.js file and worked on the app functionality (making the buttons work, making the circle shrink and grow accurately, and making sure the number breaths were accurate and working properly).
 
 **Wireframe Mockups**
+
 Below is a mockup of what the application appears like on an Iphone, a laptop, and a desktop.
 
 ![image](https://user-images.githubusercontent.com/105788615/194733652-5d6e9c8a-d09a-4ae8-9e92-6cce63aa8f77.png)

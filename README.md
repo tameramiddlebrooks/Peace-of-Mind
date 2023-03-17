@@ -20,5 +20,5 @@ My approach to creating the game was starting off with my index.html file first.
 
 Below is a mockup of what the application appears like on an Iphone, a laptop, and a desktop.
 
-![image](https://user-images.githubusercontent.com/105788615/194733652-5d6e9c8a-d09a-4ae8-9e92-6cce63aa8f77.png)
-![image](https://user-images.githubusercontent.com/105788615/194733929-f30409a2-bb81-4488-a896-38f8027fbeeb.png)
+![image](https://user-images.githubusercontent.com/105788615/226044803-d5960ece-cbf7-442d-890d-b3f3d966d916.png)
+![image](https://user-images.githubusercontent.com/105788615/226044939-d511a5d8-5cce-4fd9-835d-98c6357f853c.png)

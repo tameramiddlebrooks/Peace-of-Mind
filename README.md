@@ -1,4 +1,4 @@
-# Peace of Mind
+# Find Peace of Mind
 
 **About**
 

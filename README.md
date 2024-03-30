@@ -22,3 +22,6 @@ Below is a mockup of what the application appears like on an Iphone, a laptop, a
 
 ![image](https://user-images.githubusercontent.com/105788615/226044803-d5960ece-cbf7-442d-890d-b3f3d966d916.png)
 ![image](https://user-images.githubusercontent.com/105788615/226044939-d511a5d8-5cce-4fd9-835d-98c6357f853c.png)
+
+**Post-MVP**
+I plan on adding audio to the project because a lot of people meditate with their eyes closed and need audio signifiers to know when to start or stop rather than keeping their eyes on the app while they're meditating. I also plan to translate the app into Swift so it can be an iOS app.
